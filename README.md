@@ -1,6 +1,6 @@
 # 🏥 醫院見習志願自動分配系統 (Clerkship Allocation System)
 
-這是一個基於 Google Workspace (Sheets, Forms, Apps Script) 的自動化腳本，旨在公平、高效地為物輔系大三的學生分配臨床見習的醫院與時段。
+這是一個基於 Google Workspace (Sheets, Forms, Apps Script) 的自動化腳本，旨在公平、高效地為同學分配臨床見習的醫院與時段。
 
 ---
 
